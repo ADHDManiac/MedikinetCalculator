@@ -14,7 +14,7 @@ Project plans:
 General features planned:
  - Time of Effect
  - Graph which would show the approximate time when the highest effects take start
- - Related information, warnings, recommended maximal dosages
+ - Related information, warnings, recommended maximal dosages, combination with other medicaments ok, be carful, definitely avoid
  
 Some fancy functions that are planned (Flutter app):
  - Local and heavily encrypted storage of some user data (If the user wants to use these features). User can save time and dosage of medication. The app will later be having a dashboard as home on which the approximate remaining effect and the approximate remaining strength according to the dosage and other data will be left.
