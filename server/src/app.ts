@@ -48,7 +48,6 @@ app.get('/side_effects/:id', (req: Request, res: Response) => {
 app.get('/interactions/:id', (req: Request, res: Response) => {
     const id = parseInt(req.params.id);
 
-    // Replace with real data from your database
     const interactions = [
         'Alcohol',
         'Antidepressants (e.g., MAOIs)',
