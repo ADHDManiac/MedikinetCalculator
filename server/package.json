@@ -1,0 +1,31 @@
+{
+  "name": "medikinet_calculator_api",
+  "version": "1.0.0",
+  "description": "The node.js API server for the medikinet calculator web application",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADHDManiac/MedikinetCalculator.git"
+  },
+  "author": "ADHDManiac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ADHDManiac/MedikinetCalculator/issues"
+  },
+  "homepage": "https://github.com/ADHDManiac/MedikinetCalculator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "@types/node": "^18.15.12",
+    "typescript": "^5.0.4"
+  }
+}
