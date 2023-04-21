@@ -10,17 +10,19 @@ Project plans:
  - Node JS API
  - Fancy, modern and beautiful looking frontend
  - Flutter app for android and ios
+ - ...
  
 General features planned:
  - Time of Effect
  - Graph which would show the approximate time when the highest effects take start
  - Related information, warnings, recommended maximal dosages, combination with other medicaments ok, be careful, definitely avoid
+ - ...
  
 Some fancy functions that are planned (Flutter app):
  - Local and heavily encrypted storage of some user data (If the user wants to use these features). User can save time and dosage of medication. The app will later be having a dashboard as home on which the approximate remaining effect and the approximate remaining strength according to the dosage and other data will be left.
  - Push notification for reminder (For example configured with time and remaining effect and strength)
- - Saving of acutual effect, feeling according to the user.
- - Easy to export data for be able to get viewed by a doctor if the user want it. (Encrypted and protected)
+ - Saving of actual effect, feeling according to the user.
+ - Easy to export data to be able to get viewed by a doctor if the user want it. (Encrypted and protected)
  - For doctor, import of patient data (Encrypted and protected)
  - ...
  
